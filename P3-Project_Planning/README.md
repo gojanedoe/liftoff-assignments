@@ -12,8 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Link to project tracker](https://trello.com/b/7goeSEx2/main-board)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Link to project on GitHub](https://github.com/gojanedoe/yoga-routine-builder)
