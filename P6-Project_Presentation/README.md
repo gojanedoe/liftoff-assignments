@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Yoga-Routine-Builder.pdf](https://github.com/gojanedoe/liftoff-assignments/files/7961181/Yoga-Routine-Builder.pdf)
